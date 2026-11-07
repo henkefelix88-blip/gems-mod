@@ -1,10 +1,10 @@
-# Gems Mod v3
+# Gems Mod v4
 
-**Fabric-Mod für Minecraft 1.21.11** – 6 magische Edelsteine mit je 4 Fähigkeiten, besondere Waffen und Werkzeuge, ein neuer Ender-Dragon-Kampf, Teams und Anti-Cheat für SMP-Server.
+**Fabric-Mod für Minecraft 1.21.11** – 6 magische Edelsteine mit je 4 Fähigkeiten, besondere Waffen und Werkzeuge, ein neuer Ender-Dragon-Kampf, Teams und Anti-Xray für SMP-Server.
 
 ## ⬇️ Download
 
-**[gems-mod-v3.jar herunterladen](https://github.com/henkefelix88-blip/gems-mod/releases/latest/download/gems-mod-v3.jar)**
+**[gems-mod-v4.jar herunterladen](https://github.com/henkefelix88-blip/gems-mod/releases/latest/download/gems-mod-v4.jar)**
 
 **Installation:** Fabric Loader (0.19.3+) und die **Fabric API** für 1.21.11 installieren, dann die `.jar` in den `mods`-Ordner legen. Die Mod läuft serverseitig – Spieler ohne Mod können sich trotzdem verbinden (die eigenen Menüs gibt es dann als Chat/Actionbar).
 
@@ -29,7 +29,7 @@
 - **Explosive Crossbow** – verschießt TNT als Munition; der Bolzen explodiert beim Aufprall wie TNT (zerstört nur natürliche Blöcke, nie gebaute).
 - **Frost Sword** – jeder Treffer friert das Ziel ein wie Pulverschnee (Verlangsamung + Frostschaden).
 
-**Sonstiges:** 3-Phasen-Ender-Dragon-Kampf (6× Leben, eigene Bossbar), Teams mit Freundfeuer-Schutz (`/team`), Kampf-System (Combat-Log = Tod), `/stat <spieler>`, `/opmenu` für Operatoren (Weltgrenzen, Cooldowns, Server-Start), `/start server` mit Countdown, Anti-Xray, Anti-ESP und GrimAC-Anticheat.
+**Sonstiges:** 3-Phasen-Ender-Dragon-Kampf (6× Leben, eigene Bossbar), Teams mit Freundfeuer-Schutz (`/team`), Kampf-System (Combat-Log = Tod), `/stat <spieler>`, `/opmenu` für Operatoren (Weltgrenzen, Cooldowns, Server-Start), `/start server` mit Countdown, Anti-Xray und Anti-ESP.
 
 ---
 
